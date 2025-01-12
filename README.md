@@ -17,4 +17,4 @@ DeepLearning-Transformer_improved_through_the_concept_of_TimesNet/
 ├── main.ipynb              # Implementation of the basic Transformer  
 ```  
 ## Usage  
-Using the Colab platform, simply copy and paste the code to start running the project.
+Using the Colab platform, simply copy and paste the code to start running the project.The dataset used is the ETTh dataset, which can be downloaded from its official website.
